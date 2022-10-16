@@ -16,8 +16,8 @@ encoding: "utf-8"
 favicon: favicon.ico 
 
 repository: cmcmyth/cmcmyth.github.io
-github_url: https://github.com/cmcmyth
-url: https://cmcmyth.github.io
+github_url: http://github.com/cmcmyth
+url: http://cmcmyth.github.io
 enforce_ssl: cmcmyth.github.io
 
 ## Gem
